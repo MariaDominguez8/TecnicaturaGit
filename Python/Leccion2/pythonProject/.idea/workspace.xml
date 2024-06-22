@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21662590-4b8a-4ddc-a7ae-7c72eed2f164" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase3_EjercicioCalificaTuDia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase3_EjercicioInformacionLibro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase4_EjercicioMayorDeEdad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase4_EjercicioParOImpar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase4_EjercicioRectangulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase4_OperadoresAritmeticos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase4_OperadoresComparacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase4_OperadoresReasignacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase5_EjercicioMayorEntreDosNums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase5_EjercicioRangoEntre20y30anios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase5_EjercicioTiendaDeLibros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase5_EjercicioValorDentroDeUnRango.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase5_OperadoresLogicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase5_OperadoresOrYNot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Leccion1/Leccion1/Clase6_SentenciasIfElse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leccion2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
